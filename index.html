@@ -26,10 +26,21 @@
         <h1>Find Your Perfect Stay</h1>
         <p>Search hotels, resorts & homes</p>
 
-        <div class="search-box">
-            <input type="text" placeholder="Location">
-            <input type="date">
-            <input type="date">
+        <div class="Search">
+            <label for="Location">Location:</label>
+            <select name="Location" id="Location" required>
+                <option value="" disabled selected>
+                     -- Select Location --
+                </option>
+                <option value="Hyderabad">Hyderabad</option>
+                <option value="Benguluru">Bengaluru</option>
+                <option value="Chennai">Chennai</option>
+                <option value="Vizag">Vizag</option>
+            </select>
+            <label for="Start">Start:</label>
+            <input type="date" id="Start">
+            <label for="End">To:</label>
+            <input type="date" id="End">
             <button>Search</button>
         </div>
     </div>
