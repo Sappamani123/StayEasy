@@ -17,7 +17,8 @@ A modern hotel booking UI built using HTML & CSS.
 - CSS3
 
 ## 📸 Preview
-<img width="1895" height="908" alt="image" src="https://github.com/user-attachments/assets/8cbc8dcf-699f-48ec-a490-d6d1feb310f4" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b1fe7b7-c43c-471f-8dcb-4dc016544cfd" />
+
 ## 📂 Project Structure
 ## 🌐 Live Demo
 https://sappamani123.github.io/StayEasy/
